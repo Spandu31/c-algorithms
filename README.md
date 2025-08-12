@@ -11,21 +11,7 @@ This repository will grow over time as I solve more problems from platforms like
 | # | Problem | Platform | File |
 |---|---------|----------|------|
 | 1 | Two Sum | LeetCode | [Two_Sum.c](Two_Sum.c) |
+| 2 | Best Time to Buy and Sell Stock | LeetCode | [BestTimeToBuyAndSellStock.c](BestTimeToBuyAndSellStock.c) |
 
 ---
 
-## 📜 Problem Descriptions
-
-### 1. Two Sum  
-**Platform:** [LeetCode Problem 1](https://leetcode.com/problems/two-sum/)  
-**Description:** Given an array of integers `nums` and an integer `target`, return the indices of the two numbers that add up to the target.  
-
-**Approach:**  
-- Brute force approach with O(n²) time complexity.  
-- Loops through all pairs until a match is found.  
-- Returns the indices in an array allocated with `malloc`.  
-
-**Compilation & Run:**
-```bash
-gcc two_sum.c -o two_sum
-./two_sum
