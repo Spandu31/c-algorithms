@@ -10,7 +10,7 @@ This repository will grow over time as I solve more problems from platforms like
 
 | # | Problem | Platform | File |
 |---|---------|----------|------|
-| 1 | Two Sum | LeetCode | [two_sum.c](two_sum.c) |
+| 1 | Two Sum | LeetCode | [Two_Sum.c](Two_Sum.c) |
 
 ---
 
