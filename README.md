@@ -8,7 +8,7 @@ This repository will grow over time as I solve more problems from platforms like
 
 ## 📂 Contents
 
-| # | Problem | Platform | File |
+| # | Problem | Platform | Solution File |
 |---|---------|----------|------|
 | 1 |[ Two Sum ](https://leetcode.com/problems/two-sum/description/)| LeetCode | [Two_Sum.c](Two_Sum.c) |
 | 2 |[ Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| LeetCode | [BestTimeToBuyAndSellStock.c](BestTimeToBuyAndSellStock.c) |
