@@ -12,6 +12,7 @@ This repository will grow over time as I solve more problems from platforms like
 |---|---------|----------|------|
 | 1 | Two Sum | LeetCode | [Two_Sum.c](Two_Sum.c) |
 | 2 | Best Time to Buy and Sell Stock | LeetCode | [BestTimeToBuyAndSellStock.c](BestTimeToBuyAndSellStock.c) |
+| 3 | Move Zeroes | LeetCode | [MoveZeroes.c](MoveZeroes.c) |
 
 ---
 
